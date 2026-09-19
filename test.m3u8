@@ -3,5 +3,7 @@
 #EXT-X-ALLOW-CACHE:YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,NAME="1"
+#EXTVLCOPT:http-referrer=https://ch3plus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
 
