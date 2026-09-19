@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://ch3plus.com/
 
 #EXTINF:-1,ช่อง 3 HD
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
