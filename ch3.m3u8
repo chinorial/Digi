@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
 http://embyjojo.ddns.net:8080/live/wat605/4656/91.m3u8
 http://viking24.ddnsking.com:25461/live/T009/09990/109569.m3u8
 http://viking24.ddnsking.com:25461/live/T009/09990/104173.m3u8
