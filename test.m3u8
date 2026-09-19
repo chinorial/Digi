@@ -1,6 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTVLCOPT:http-referrer=https://ch3plus.com/
 
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080,NAME="ช่อง3 HD"
+#EXTINF:-1 tvg-name="ช่อง 3 HD" tvg-logo="https://ch3plus.com/img/logo.png",ช่อง 3 HD
+#EXTVLCOPT:http-referrer=https://ch3plus.com/
+#EXTVLCOPT:http-origin=https://ch3plus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
+
